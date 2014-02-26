@@ -1,7 +1,3 @@
-Website as a Project +  
-Elemente introductive de marketing online
-==========================================
-
 Slide-uri
 
 Autor - [Cristian Dinu](http://cristiandinu.info)
